@@ -1,2 +1,5 @@
 Part1-D-Step5
 Part1-F-Step9
+Part3-A-Step6
+Part3-A-Step10
+Add-Part3-A-Step10
